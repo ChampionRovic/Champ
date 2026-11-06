@@ -20,3 +20,10 @@ Every post is a generated 9:16 clip of Champ, not a repurposed phone video.
 5. **Text beats**: his lines on screen, one beat at a time, DejaVu Sans Bold on a soft black band at 74% height.
 
 `compose.sh` does steps 2 to 5 given the generated clip, the voice file, the music and a bleat.
+
+## Scheduling rules
+
+- Finished clip is pushed to the public repo `ChampionRovic/champ-media` under `posts/`, and Metricool is given the raw GitHub link.
+- Providers: Instagram as REEL, TikTok, YouTube as short. Same file to all three.
+- AI disclosure flags are always true: `instagramData.isAiGenerated`, `tiktokData.isAigc`, `youtubeData.isAiGeneratedContent`.
+- Metricool brand id 7921951, timezone America/Chicago.
