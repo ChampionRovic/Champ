@@ -27,3 +27,5 @@ Every post is a generated 9:16 clip of Champ, not a repurposed phone video.
 - Providers: Instagram as REEL, TikTok, YouTube as short. Same file to all three.
 - AI disclosure flags are always true: `instagramData.isAiGenerated`, `tiktokData.isAigc`, `youtubeData.isAiGeneratedContent`.
 - Metricool brand id 7921951, timezone America/Chicago.
+- Every video post ships with a cover: a clean frame of Champ's face, exported to `covers/` in champ-media and passed as `videoThumbnailUrl`. Never let the platform pick the cover.
+- Encode with a keyframe at frame 0 (compose.sh does this) so a platform that grabs the first frame gets a whole one.

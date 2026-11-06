@@ -15,4 +15,4 @@ ffmpeg -nostdin -v error -y -i "$V" -i "$VO" -i "$M" -i "$B" -filter_complex \
   [1:a]adelay=900|900,volume=0dB[vo];
   [2:a]volume=-20dB,afade=t=in:d=0.4,afade=t=out:st=$fade:d=1.2[m];
   [bl][vo][m]amix=inputs=3:duration=longest:dropout_transition=0:normalize=0[a]" \
- -map "[v]" -map "[a]" -t "$dur" -r 30 -c:v libx264 -preset fast -crf 22 -pix_fmt yuv420p -c:a aac -b:a 160k -movflags +faststart "$OUT"
+ -map "[v]" -map "[a]" -t "$dur" -r 30 -c:v libx264 -preset fast -crf 22 -pix_fmt yuv420p -x264-params keyint=30:min-keyint=30:scenecut=0 -force_key_frames 0 -c:a aac -b:a 160k -movflags +faststart "$OUT"
