@@ -3,7 +3,8 @@
 | | |
 |---|---|
 | Instagram | @BabyGoatChamp |
-| TikTok | (same handle, pending) |
+| TikTok | @babygoatchamp |
+| YouTube | Champ's own channel, connected in Metricool. Clips go out as Shorts. |
 | Display name | Champ 🐐 |
 | Bio | Baby goat. I run At A Slant Farm. The humans work for me. The big white dog is a trampoline. Donnie owes me rent. |
 | Profile photo | `photos/album-067.jpg` |
