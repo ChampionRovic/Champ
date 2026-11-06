@@ -3,7 +3,12 @@
   "voice_id": "rlf1aTZty7nlLCXR98af",
   "voice_name": "Baby Goat Champ",
   "model_id": "eleven_multilingual_v2",
-  "voice_settings": { "stability": 0.45, "similarity_boost": 0.8, "style": 0.35 },
+  "voice_settings": {
+    "stability": 0.9,
+    "similarity_boost": 0.9,
+    "style": 0.0,
+    "speed": 0.85
+  },
   "output_format": "mp3_44100_128",
-  "note": "Donnie designed this voice in his own ElevenLabs account. The API key is a network secret on the cloud environment, injected by the proxy; code sends the placeholder 'proxy-injected' in the xi-api-key header. Bleats from the real goats are layered under or between lines; see photos/bleats when that lands."
+  "note": "Donnie designed this voice in his own ElevenLabs account. The API key is a network secret on the cloud environment, injected by the proxy; code sends the placeholder 'proxy-injected' in the xi-api-key header. Bleats from the real goats are layered under or between lines; see photos/bleats when that lands. Settings G: steady and slow, picked by Donnie for clarity."
 }
