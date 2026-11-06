@@ -61,7 +61,7 @@ Recurring jokes. The brain returns to them, escalates them slowly, and never res
 
 ## Visual identity
 
-Champ is a real goat. He is the dark kid who shows up in at least ten shots across Donnie's Google Photos albums, standing square and staring straight into the camera.
+Champ is a real goat, confirmed by Donnie. He is the dark kid who shows up in at least ten shots across the Google Photos albums, standing square and staring straight into the camera.
 
 - Baby Nigerian Dwarf. Body is dark chocolate to black. Legs, belly, eyebrows and muzzle are tan. A white dot sits between his ears, and he has a small white patch on his side.
 - Ears stick straight out sideways. Knobby knees. Stands with all four feet planted like he owns the ground under them.
@@ -72,5 +72,4 @@ Champ is a real goat. He is the dark kid who shows up in at least ten shots acro
 
 ## Open questions for Donnie
 
-- Confirm Champ is the dark kid with tan legs and the white dot between his ears (see Visual identity). If it's a different goat, say which.
 - Any other real moments. The trampoline came from you and it's the best thing in this file. Ghost's name came from you too.
