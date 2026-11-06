@@ -1,6 +1,6 @@
 # Week 1 queue
 
-Five posts for Donnie to approve before anything goes live. Every photo is checked at full frame, not from a thumbnail. Every clip goes out as a Reel, a TikTok, and a YouTube Short. Each one is a real clip or photo from `photos/library.json` plus Champ's caption. Nothing here is in his memory yet except post 2, which is his recorded day one. The rest become canon when they post.
+Five posts, all loaded in Metricool as drafts for Donnie to approve before anything goes live. Every photo is checked at full frame, not from a thumbnail. Every clip goes out as a Reel, a TikTok, and a YouTube Short. Each one is a real clip or photo from `photos/library.json` plus Champ's caption. Nothing here is in his memory yet except post 2, which is his recorded day one. The rest become canon when they post.
 
 Cadence: three or four a week. Sunday posts carry the hashtag. Times are placeholders until Donnie picks his wake-up hour.
 
@@ -24,9 +24,9 @@ Cadence: three or four a week. Sunday posts carry the hashtag. Times are placeho
 
 ## 3. Thursday, Nov 12 — meet Ghost
 
-**Media:** video `album2-098` (Donnie's selfie with Ghost). Instagram Reel, TikTok, YouTube Short.
+**Media:** video `album2-098` (Donnie with Ghost, then Elizabeth with Ghost). Instagram Reel, TikTok, YouTube Short.
 
-> This is the big white dog. They call him Ghost. I can see him. I have landed on him eleven times. That is not a ghost. The man is Donnie. He owes me rent.
+> This is the big white dog. They call him Ghost. I can see him. I have landed on him eleven times. That is not a ghost. The man is Donnie. He owes me rent. The woman at the end is Elizabeth. She does not.
 
 ---
 
