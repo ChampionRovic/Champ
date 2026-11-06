@@ -32,9 +32,9 @@ Cadence: three or four a week. Sunday posts carry the hashtag. Times are placeho
 
 ## 4. Saturday, Nov 14 — trough report
 
-**Media:** `photos/album-030.jpg` (kids piled into one feeder)
+**Media:** `photos/album-030.jpg` (two kids lying in a rubber feed tub)
 
-> There are four troughs. All of them have food. We are all in this one. Elizabeth filled the other three again this morning. We watched her do it. Then we got back in this one.
+> There are four troughs. This one is the bed. Elizabeth says it is not the bed. She says it is for food. It has been the bed since Tuesday. It is the bed.
 
 ---
 
@@ -42,7 +42,7 @@ Cadence: three or four a week. Sunday posts carry the hashtag. Times are placeho
 
 **Media:** video `album-005` (baby goat in the red sweater). Instagram Reel, TikTok, YouTube Short.
 
-> One of us is in a sweater. Nobody asked me. I inspected it. It is red. It can stay. #BabyGoatSunday
+> One of us is in a sweater. Nobody asked me. I inspected it. It is red. It has dots. It can stay. #BabyGoatSunday
 
 ---
 
@@ -50,9 +50,9 @@ Cadence: three or four a week. Sunday posts carry the hashtag. Times are placeho
 
 Ready if one of the above gets cut.
 
-**Media:** `photos/album2-003.jpg` (piglets)
+**Media:** `photos/album2-003.jpg` (piglets in the barn, dim)
 
-> It rained. The pigs are thrilled. I am not. We are not the same.
+> These are the pigs. They are new. They are already happier than me and they have done nothing to earn it.
 
 **Media:** `photos/album-040.jpg` (adult goat on the wooden frame)
 
