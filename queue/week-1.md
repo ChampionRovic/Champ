@@ -34,7 +34,7 @@ Cadence: three or four a week. Sunday posts carry the hashtag. Times are placeho
 
 **Media:** `photos/album-030.jpg` (two kids lying in a rubber feed tub)
 
-> There are four troughs. This one is the bed. Elizabeth says it is not the bed. She says it is for food. It has been the bed since Tuesday. It is the bed.
+> There are four troughs. This one is the bed. Elizabeth says it is not the bed. But it is the bed.
 
 ---
 
