@@ -1,0 +1,4 @@
+a93d525511d77e8ecc933d09674b85099815bbbb417c228a4edd655e252fb9ff  hf/models--MIT--ast-finetuned-audioset-10-10-0.4593/snapshots/f826b80d28226b62986cc218e5cec390b1096902/config.json
+ae0c1e2ad4e1381d851fa9bf298ba13ebc9c5a914cdee2dbe427a6583869924d  hf/models--MIT--ast-finetuned-audioset-10-10-0.4593/snapshots/f826b80d28226b62986cc218e5cec390b1096902/model.safetensors
+6268f76a067e3104bf9001e97d7dcc0fcfb16f3086cfb478ee72d95900d7fc1d  hf/models--laion--larger_clap_general/snapshots/16c8cc3159a3c8a31e8ff5ef1f66b0d9ab3667db/config.json
+c3d0e564a97cb5eccea412f11d5c51c8a1ccceb80c51e3c6957bb5a796b423b6  hf/models--laion--larger_clap_general/snapshots/16c8cc3159a3c8a31e8ff5ef1f66b0d9ab3667db/model.safetensors

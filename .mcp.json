@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "earshot": {
+      "command": "tools/earshot/.venv/bin/python",
+      "args": ["-m", "earshot", "mcp"],
+      "env": {"EARSHOT_HOME": "tools/earshot/.cache", "EARSHOT_OFFLINE": "1", "EARSHOT_THREADS": "3"}
+    }
+  }
+}
