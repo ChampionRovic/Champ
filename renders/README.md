@@ -11,3 +11,4 @@ Generated scenes cost credits, so every one is kept here.
 | 2026-11-06-bed-post.mp4 | Finished post: tub scene + voice + music + text beats, no bleat | | |
 
 Prices per 8-second scene: minimax-h3 768p = 120, seedance-2 720p = 280, seedance-2 1080p = 720. Production setting is seedance-2 at 720p unless Donnie says otherwise.
+| 2026-11-17-trampoline-post.mp4 | Finished post for Nov 17: the paid 1080p seedance scene held to 15.6 s + voice + bleat-04 + music + text beats. Earshot: bleat 74% vs music, true peak -0.8 dBTP | | 0 (scene reused) |

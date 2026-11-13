@@ -8,11 +8,11 @@ T="drawtext=fontfile=$F:fontcolor=white:fontsize=60:line_spacing=10:box=1:boxcol
 beats=""; for b in "$@"; do IFS='|' read -r txt a z <<<"$b"; txt=$(printf '%b' "$txt"); beats="$beats,$T:text='$txt':enable='between(t,$a,$z)'"; done
 dur=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$V")
 fade=$(python3 -c "print(max(0,float('$dur')-1.2))")
-# audio: bleat at 0.2s, voice from 0.9s, music low throughout
+# audio: bleat at 0.2s, voice from 0.9s, music low throughout; limiter holds true peak near -1 dBTP (Earshot read the first post at -0.4)
 ffmpeg -nostdin -v error -y -i "$V" -i "$VO" -i "$M" -i "$B" -filter_complex \
  "[0:v]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920$beats[v];
   [3:a]adelay=200|200,volume=-2dB[bl];
   [1:a]adelay=900|900,volume=0dB[vo];
   [2:a]volume=-20dB,afade=t=in:d=0.4,afade=t=out:st=$fade:d=1.2[m];
-  [bl][vo][m]amix=inputs=3:duration=longest:dropout_transition=0:normalize=0[a]" \
+  [bl][vo][m]amix=inputs=3:duration=longest:dropout_transition=0:normalize=0,alimiter=limit=0.89:level=false[a]" \
  -map "[v]" -map "[a]" -t "$dur" -r 30 -c:v libx264 -preset fast -crf 22 -pix_fmt yuv420p -x264-params keyint=30:min-keyint=30:scenecut=0 -force_key_frames 0 -c:a aac -b:a 160k -movflags +faststart "$OUT"
