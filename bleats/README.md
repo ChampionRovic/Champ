@@ -18,4 +18,4 @@ Every clip is loudness-matched (-18 LUFS, -1 dBTP peak). Earshot ranks all of th
 Sampler 2 had seven clips; Donnie confirmed all seven, but three were the same recordings as bleat-02, 04 and 07
 cut tighter (checked by waveform correlation), so only the four new ones were added.
 
-Used so far: bleat-04 (the bed, Nov 6; the trampoline, Nov 17). Next up: 09, then 10.
+Used so far: bleat-04 (the bed, Nov 6; the trampoline, Nov 17), bleat-09 (Sundays are mine, Nov 15). Next up: 10, then 11.
